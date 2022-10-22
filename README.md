@@ -2,3 +2,5 @@
 Scammer Pranks.
 
 Requires: ffmpeg
+
+Does not require root.
